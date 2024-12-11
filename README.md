@@ -13,7 +13,7 @@
 ## Overview
 - JavaScript functions, arrays, and conditionals are used to take student grades, average them, and sort them into grades. The student is sent a message with the class average, thier average and whether they passed or failed.
 
-## Links
+## Link
 - Solution URL:
  https://github.com/Dev-Wy/Gradebook/
 
