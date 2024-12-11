@@ -20,7 +20,6 @@
 ## My Process
 ### Built with
 - JavaScript
-- Manipulate the DOM
 
 ### What I learned
 - I practiced using functions and concatonating. I learned how to find an average and use functions within functions.
